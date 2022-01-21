@@ -1,0 +1,14 @@
+{
+  "name": "hqit-upload-qiniu",
+  "version": "1.0.1",
+  "description": "Package files to qiniu CDN",
+  "main": "./lib/UploadQiNiuPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laladila",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
